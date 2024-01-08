@@ -1,0 +1,11 @@
+.left-main-bar{
+    background-color: rgb(29, 24, 38);
+    height: 100svh;
+    width: "30px";
+}
+.top-bar{
+    background-color: rgb(21, 24, 24);
+}
+.labelhead{
+    padding-right: 5%;
+}
